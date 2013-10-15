@@ -1,0 +1,27 @@
+{
+  "name": "mogwai-talkable",
+  "version": "0.0.0",
+  "description": "Make your Mogwai models able to engage in a conversation with other Mogwai models",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gulthor/mogwai-talkable.git"
+  },
+  "keywords": [
+    "mogwai",
+    "plugin",
+    "message",
+    "messaging",
+    "conversation",
+    "chat",
+    "express"
+  ],
+  "author": "Jean-Baptiste Musso <jbmusso+github@gmail.com> (https://github.com/gulthor)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulthor/mogwai-talkable/issues"
+  }
+}
